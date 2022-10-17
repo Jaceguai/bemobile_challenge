@@ -3,7 +3,7 @@
 # Sobre
 
 ## Aplicativo desenvolvido proposto a responder desafio técnico da empresa Be Mobile.
-##Ele contém uma tabela com informações simuladas de uma APi. Consiste principalmente mostrar imagens e nomes de supostos fúncionarios contratados pela empresa, ao pressionar em mostrar detalhes  descerá uma aba mostrando mais informações do funcionário desejado como: cargo, data de admissão e telefone também deponível um input onde poderá ser feito pesquisas.
+## Ele contém uma tabela com informações simuladas de uma APi. Consiste principalmente mostrar imagens e nomes de supostos fúncionarios contratados pela empresa, ao pressionar em mostrar detalhes  descerá uma aba mostrando mais informações do funcionário desejado como: cargo, data de admissão e telefone também deponível um input onde poderá ser feito pesquisas.
 
 # Requisitos
 
